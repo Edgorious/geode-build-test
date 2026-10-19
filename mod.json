@@ -7,10 +7,10 @@
 		"ios": "2.2081"
 	},
 	"id": "testing.geode-build-test",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"name": "GEODETEST",
+	"version": "v1.0.0",
+	"developer": "MitchingtonInc",
+	"description": "TESTMODFORUG",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
